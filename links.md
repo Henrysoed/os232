@@ -18,3 +18,12 @@ The website is helps me to understand the basic of operating system
 * [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA) --- This video helps me to learn cyber security
 <br>
 <hr>
+
+## Week 03
+* [FUNDAMENTALS OF OPERATING SYSTEMS AND PROGRAMMING](https://www.mit.edu.au/study-with-us/units/MN404/MN404%20-%20Fundamentals%20of%20Operating%20Systems%20and%20Programming) --- This website helps me to understand the fundamental of operating system
+<br>
+<hr>
+
+* [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) --- This video helps me to solve the course that I saw when doing week3 assignment
+<br>
+<hr>
