@@ -27,3 +27,16 @@ The website is helps me to understand the basic of operating system
 * [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) --- This video helps me to solve the course that I saw when doing week3 assignment
 <br>
 <hr>
+
+## Week 04
+* [IBM Mounting](https://www.ibm.com/docs/sr/aix/7.1?topic=systems-mounting) --- This website helps me to understand the knwoledge of mounting in operating system
+<br>
+<hr>
+
+* [How to create a static library | [Linux Programming]](https://www.youtube.com/watch?v=3RmIVDgPmGk) --- This website helps me to understand static library in OS
+<br>
+<hr>
+
+* [This website helps me to understand the fundamental of operating system](https://www.codingninjas.com/studio/library/zombie-and-orphan-process-in-os) --- This website helps me to understand zombie and orphan process
+<br>
+<hr>
