@@ -40,3 +40,16 @@ The website is helps me to understand the basic of operating system
 * [This website helps me to understand the fundamental of operating system](https://www.codingninjas.com/studio/library/zombie-and-orphan-process-in-os) --- This website helps me to understand zombie and orphan process
 <br>
 <hr>
+
+## Week 05
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) --- This youtube video helps me to learn virtual memory in OS
+<br>
+<hr>
+
+* [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) --- This website helps me to learn virtual memory in OS
+<br>
+<hr>
+
+* [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- This website helps me to learn virtual memory in OS
+<br>
+<hr>
