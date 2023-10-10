@@ -37,6 +37,13 @@ The website is helps me to understand the basic of operating system
 <br>
 <hr>
 
-* [This website helps me to understand the fundamental of operating system](https://www.codingninjas.com/studio/library/zombie-and-orphan-process-in-os) --- This website helps me to understand zombie and orphan process
+* [What is an orphan process?](https://www.codingninjas.com/studio/library/zombie-and-orphan-process-in-os) --- This website helps me to understand zombie and orphan process
 <br>
 <hr>
+
+## Week 05
+* [Program to create Threads in Linux || pthread_create()](https://www.youtube.com/watch?v=Ga9uegju0EQ&list=PLlr7wO747mNp5nn0hteJFnt1rpdx6GG-_&index=12) --- This video helps me to understand threads in Linux
+
+* [Cracking the Race Condition Program with C | Uncover the Threads](https://www.youtube.com/watch?v=dIkmqS2wAFE&list=PLlr7wO747mNp5nn0hteJFnt1rpdx6GG-_&index=14) --- This video helps me to understand race condition program
+
+* [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- This website helps me to understand the difference between threads and processes
