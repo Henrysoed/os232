@@ -10,6 +10,10 @@ The website is helps me to understand the basic of operating system
 <br>
 <hr>
 
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) --- This youtube video helps me to learn virtual memory in OS
+<br>
+<hr>
+
 ## Week 02
 * [Basics of OS (Computer System Operation)](https://www.youtube.com/watch?v=VjPgYcQqqN0) --- This video helps me to learn basics of OS
 <br>
@@ -19,12 +23,20 @@ The website is helps me to understand the basic of operating system
 <br>
 <hr>
 
+* [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- This website helps me to learn virtual memory in OS
+<br>
+<hr>
+
 ## Week 03
 * [FUNDAMENTALS OF OPERATING SYSTEMS AND PROGRAMMING](https://www.mit.edu.au/study-with-us/units/MN404/MN404%20-%20Fundamentals%20of%20Operating%20Systems%20and%20Programming) --- This website helps me to understand the fundamental of operating system
 <br>
 <hr>
 
 * [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) --- This video helps me to solve the course that I saw when doing week3 assignment
+<br>
+<hr>
+
+* [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) --- This website helps me to learn virtual memory in OS
 <br>
 <hr>
 
@@ -42,22 +54,15 @@ The website is helps me to understand the basic of operating system
 <hr>
 
 ## Week 05
-<<<<<<< HEAD
 * [Program to create Threads in Linux || pthread_create()](https://www.youtube.com/watch?v=Ga9uegju0EQ&list=PLlr7wO747mNp5nn0hteJFnt1rpdx6GG-_&index=12) --- This video helps me to understand threads in Linux
 
 * [Cracking the Race Condition Program with C | Uncover the Threads](https://www.youtube.com/watch?v=dIkmqS2wAFE&list=PLlr7wO747mNp5nn0hteJFnt1rpdx6GG-_&index=14) --- This video helps me to understand race condition program
 
 * [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- This website helps me to understand the difference between threads and processes
-=======
-* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) --- This youtube video helps me to learn virtual memory in OS
-<br>
-<hr>
 
-* [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) --- This website helps me to learn virtual memory in OS
-<br>
-<hr>
+## Week 06
+* [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) --- This website helps me to understand about fork
 
-* [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- This website helps me to learn virtual memory in OS
-<br>
-<hr>
->>>>>>> 20ff6efa408d7f97b4524ca4baed8c1e16905fd2
+* [Why Do We Need the fork System Call to Create New Processes?](https://www.baeldung.com/linux/fork-child-process) --- This website helps me to understand about fork
+
+* [fork() and exec() System Calls](https://youtube.com/watch?v=IFEFVXvjiHY) --- This video helps me to understand fork
