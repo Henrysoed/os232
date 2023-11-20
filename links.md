@@ -94,4 +94,14 @@ The website is helps me to understand the basic of operating system
 
 * [Semaphores in Operating System](https://byjus.com/gate/semaphores-in-operating-system-notes/) --- This website helps me to learn about semaphores
 <br>
+https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8<hr>
+
+## Week 08
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) --- This video helps me to learn LFS
+<br>
 <hr>
+
+* [6. Chapter 4: Final Preparations - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=Z5ijC_b2U4o&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=6) --- This video helps me to learn LFS
+<br>
+<hr>
+
