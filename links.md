@@ -105,3 +105,11 @@ https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6
 <br>
 <hr>
 
+## Week 09
+* [8. Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) --- This video helps me to learn LFS
+<br>
+<hr>
+
+* [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) --- This video helps me to learn LFS
+<br>
+<hr>
